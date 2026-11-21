@@ -1,6 +1,6 @@
 def check_data():
-    print("=" * 45)
-    print("       CHUONG TRINH KIEM TRA DU LIEU")
+    print('"=" * 4    print("       CHUONG TRINH KIEM TRA DU LIEU")')
+    
     print("=" * 45)
 
     print("Nhap du lieu cua ban.")
@@ -71,7 +71,5 @@ def check_data():
 
     print("\nHoan thanh kiem tra!")
 
-
 check_data()
-
 
